@@ -1,4 +1,3 @@
 def mysort(lst):
-    lst.sory()
-    x = 0
-    return x
+    lst.sort()
+    return lst
